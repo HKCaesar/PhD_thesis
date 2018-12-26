@@ -1,10 +1,18 @@
 # PhD_thesis
-every4CAU
+every4CAU  
+
 这是我的博士论文base
-中国农业大学
+中国农业大学  
+
 cqq.ipynb 
-is a notebook for data processing and classification using fusioned PolSAR 
-是星载SAR融合图像处理和分类的机器学习比较。
+is a notebook for data processing and classification using fusioned PolSAR   
+
+是星载SAR融合图像处理和分类的机器学习比较。   
+
 Todo
-待完善
+待完善   
+
+查看地址：   
+http://nbviewer.jupyter.org/github/HKCaesar/PhD_thesis/blob/master/cqq.ipynb   
+
  Email:qqzhang@cau.edu.cn
