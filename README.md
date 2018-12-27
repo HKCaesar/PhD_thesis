@@ -14,5 +14,6 @@ Todo
 
 查看地址：   
 http://nbviewer.jupyter.org/github/HKCaesar/PhD_thesis/blob/master/cqq.ipynb   
-
+2: gcm.py
+Genrating Confusion Matrix
  Email:qqzhang@cau.edu.cn
