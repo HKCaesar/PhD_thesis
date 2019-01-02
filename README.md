@@ -15,5 +15,11 @@ Todo
 查看地址：   
 http://nbviewer.jupyter.org/github/HKCaesar/PhD_thesis/blob/master/cqq.ipynb   
 2: gcm.py
-Genrating Confusion Matrix
- Email:qqzhang@cau.edu.cn
+Genrating Confusion Matrix  
+分类混淆矩阵指标计算。 
+ 
+3: latex_T.ipynb 
+ipython notebook latex usage. 
+latex 公式生成。  
+
+Email:qqzhang@cau.edu.cn  
