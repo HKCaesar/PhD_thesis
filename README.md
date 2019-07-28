@@ -22,4 +22,8 @@ Genrating Confusion Matrix
 ipython notebook latex usage. 
 latex 公式生成。  
 
+4: Keras_MLP(DNN).ipynb 
+ipython notebook for keras regression network. 
+keras 回归
+
 Email:qqzhang@cau.edu.cn  
